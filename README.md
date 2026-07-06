@@ -10,8 +10,7 @@ https://public.tableau.com/app/profile/rohit.jangid8403/viz/sheetsforvisiualisat
 
 
 # view the interative stories here
-
-https://public.tableau.com/app/profile/rohit.jangid8403/viz/sheetsforvisiualisation/Story1?publish=yes
+https://public.tableau.com/app/profile/rohit.jangid8403/viz/sheetsforvisiualisationnewcalc/Story1?publish=yes
 
 
 # story preview
@@ -41,6 +40,13 @@ https://public.tableau.com/app/profile/rohit.jangid8403/viz/sheetsforvisiualisat
 
 
 # 3. no. of visualisation -> already done
+
+
+
+# Dashboard and Story Embed with UI with Flask
+
+http://127.0.0.1:5500/indexDASH.html
+
 
 
 
