@@ -45,7 +45,8 @@ https://public.tableau.com/app/profile/rohit.jangid8403/viz/sheetsforvisiualisat
 
 # Dashboard and Story Embed with UI with Flask
 
-http://127.0.0.1:5500/indexDASH.html
+file:///c%3A/Users/rohit/OneDrive/Desktop/gp%20folder/indexDASH.html
+
 
 
 
